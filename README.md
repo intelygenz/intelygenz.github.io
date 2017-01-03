@@ -16,6 +16,8 @@ Resume in-app web browsing in the default web-browser of the continuing platform
 
 ## License
 
+[![Intelygenz](https://raw.githubusercontent.com/intelygenz/intelygenz.github.io/master/intelygenz.png)](https://intelygenz.com)
+
 Copyright 2017 Intelygenz
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
