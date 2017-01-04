@@ -1,13 +1,25 @@
 # Intelygenz ❤️ Open Source
 [![Twitter](https://img.shields.io/badge/contact-@intelygenz-0FABFF.svg?style=flat)](http://twitter.com/intelygenz)
 
-## [App2WebHandoff](https://intelygenz.github.io/App2WebHandoff)
+### [App2WebHandoff](https://intelygenz.github.io/App2WebHandoff)   [![Stars](https://img.shields.io/github/stars/intelygenz/App2WebHandoff.svg?style=social&label=Star)](https://github.com/intelygenz/App2WebHandoff)
+[![Language](https://img.shields.io/badge/language-Swift-FFAC45.svg?style=flat)](https://github.com/intelygenz/App2WebHandoff)
 [![Version](https://img.shields.io/cocoapods/v/App2WebHandoff.svg?style=flat)](http://cocoapods.org/pods/App2WebHandoff)
 [![License](https://img.shields.io/cocoapods/l/App2WebHandoff.svg?style=flat)](http://cocoapods.org/pods/App2WebHandoff)
 [![Platform](https://img.shields.io/cocoapods/p/App2WebHandoff.svg?style=flat)](http://cocoapods.org/pods/App2WebHandoff)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
 Resume in-app web browsing in the default web-browser of the continuing platform adopting handoff.
+
+## [The Game Of Code](https://github.com/thegameofcode)
+
+### [Iris JavaScript](https://github.com/thegameofcode/iris)   [![Stars](https://img.shields.io/github/stars/thegameofcode/iris.svg?style=social&label=Star)](https://github.com/thegameofcode/iris)
+[![Language](https://img.shields.io/badge/language-JavaScript-F1E05A.svg?style=flat)](https://github.com/thegameofcode/iris)
+[![Release](https://img.shields.io/github/tag/thegameofcode/iris.svg?style=flat)](https://github.com/thegameofcode/iris/tags)
+[![License](https://img.shields.io/github/license/thegameofcode/iris.svg?style=flat)](https://github.com/thegameofcode/iris/blob/master/LICENSE-New-BSD)
+
+### [Resonator](https://github.com/thegameofcode/resonator)   [![Stars](https://img.shields.io/github/stars/thegameofcode/resonator.svg?style=social&label=Star)](https://github.com/thegameofcode/resonator)
+[![Language](https://img.shields.io/badge/language-JavaScript-F1E05A.svg?style=flat)](https://github.com/thegameofcode/resonator)
+[![License](https://img.shields.io/badge/license-MIT-000000.svg?style=flat)](https://github.com/thegameofcode/resonator/blob/master/README.md)
 
 ## Etc.
 
