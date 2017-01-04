@@ -21,6 +21,8 @@ Resume in-app web browsing in the default web-browser of the continuing platform
 [![Language](https://img.shields.io/badge/language-JavaScript-F1E05A.svg?style=flat)](https://github.com/thegameofcode/resonator)
 [![License](https://img.shields.io/badge/license-MIT-000000.svg?style=flat)](https://github.com/thegameofcode/resonator/blob/master/README.md)
 
+Node.js microservice that allows to send email, sms & push notifications easily.
+
 ## Etc.
 
 * Contributions are very welcome.
