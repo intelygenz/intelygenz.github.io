@@ -10,6 +10,13 @@
 
 Resume in-app web browsing in the default web-browser of the continuing platform adopting handoff.
 
+### [Kinject](http://wokdsem.github.io/Kinject)   [![Stars](https://img.shields.io/github/stars/Wokdsem/Kinject.svg?style=social&label=Star)](https://github.com/Wokdsem/Kinject)
+[![Language](https://img.shields.io/badge/language-Java-B07219.svg?style=flat)](https://github.com/Wokdsem/Kinject)
+[![Release](https://img.shields.io/github/tag/Wokdsem/Kinject.svg?style=flat)](https://github.com/Wokdsem/Kinject/tags)
+[![License](https://img.shields.io/github/license/Wokdsem/Kinject.svg?style=flat)](https://github.com/Wokdsem/Kinject/blob/master/LICENSE)
+
+Android/Java Dependency Injector.
+
 ## [The Game Of Code](https://github.com/thegameofcode)
 
 ### [Iris JavaScript](https://github.com/thegameofcode/iris)   [![Stars](https://img.shields.io/github/stars/thegameofcode/iris.svg?style=social&label=Star)](https://github.com/thegameofcode/iris)
