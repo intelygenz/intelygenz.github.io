@@ -1,6 +1,15 @@
 # Intelygenz ❤️ Open Source
 [![Twitter](https://img.shields.io/badge/contact-@intelygenz-0FABFF.svg?style=flat)](http://twitter.com/intelygenz)
 
+### [IGZLocation](https://intelygenz.github.io/IGZLocation)   [![Stars](https://img.shields.io/github/stars/intelygenz/IGZLocation.svg?style=social&label=Star)](https://github.com/intelygenz/IGZLocation)
+[![Language](https://img.shields.io/badge/language-Swift-FFAC45.svg?style=flat)](https://github.com/intelygenz/IGZLocation)
+[![Version](https://img.shields.io/cocoapods/v/IGZLocation.svg?style=flat)](http://cocoapods.org/pods/IGZLocation)
+[![License](https://img.shields.io/cocoapods/l/IGZLocation.svg?style=flat)](http://cocoapods.org/pods/IGZLocation)
+[![Platform](https://img.shields.io/cocoapods/p/IGZLocation.svg?style=flat)](http://cocoapods.org/pods/IGZLocation)
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+
+CLLocationManager Swift 3 wrapper with multiple closure handlers and delegates allowed, notifications, sequential geofencing, self-authorization and, of course, everything is testable. #InCodeWeTrust
+
 ### [App2WebHandoff](https://intelygenz.github.io/App2WebHandoff)   [![Stars](https://img.shields.io/github/stars/intelygenz/App2WebHandoff.svg?style=social&label=Star)](https://github.com/intelygenz/App2WebHandoff)
 [![Language](https://img.shields.io/badge/language-Swift-FFAC45.svg?style=flat)](https://github.com/intelygenz/App2WebHandoff)
 [![Version](https://img.shields.io/cocoapods/v/App2WebHandoff.svg?style=flat)](http://cocoapods.org/pods/App2WebHandoff)
