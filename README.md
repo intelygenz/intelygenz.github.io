@@ -26,12 +26,20 @@ Resume in-app web browsing in the default web-browser of the continuing platform
 
 Android/Java Dependency Injector.
 
+## [TerminusAI](https://github.com/TerminusAI)
+
+### [Deep Learning](https://github.com/TerminusAI/deep-learning)   [![Stars](https://img.shields.io/github/stars/TerminusAI/deep-learning.svg?style=social&label=Star)](https://github.com/TerminusAI/deep-learning)
+
+Collection of CUDA enabled containers
+
 ## [The Game Of Code](https://github.com/thegameofcode)
 
 ### [Iris JavaScript](https://github.com/thegameofcode/iris)   [![Stars](https://img.shields.io/github/stars/thegameofcode/iris.svg?style=social&label=Star)](https://github.com/thegameofcode/iris)
 [![Language](https://img.shields.io/badge/language-JavaScript-F1E05A.svg?style=flat)](https://github.com/thegameofcode/iris)
 [![Release](https://img.shields.io/github/tag/thegameofcode/iris.svg?style=flat)](https://github.com/thegameofcode/iris/tags)
 [![License](https://img.shields.io/github/license/thegameofcode/iris.svg?style=flat)](https://github.com/thegameofcode/iris/blob/master/LICENSE-New-BSD)
+
+Iris is not only another framework, it's a methodology that will help you to build structured and organized Web applications.
 
 ### [Resonator](https://github.com/thegameofcode/resonator)   [![Stars](https://img.shields.io/github/stars/thegameofcode/resonator.svg?style=social&label=Star)](https://github.com/thegameofcode/resonator)
 [![Language](https://img.shields.io/badge/language-JavaScript-F1E05A.svg?style=flat)](https://github.com/thegameofcode/resonator)
