@@ -10,6 +10,15 @@
 
 CLLocationManager Swift 3 wrapper with multiple closure handlers and delegates allowed, notifications, sequential geofencing, self-authorization and, of course, everything is testable. #InCodeWeTrust
 
+### [Kommander](https://intelygenz.github.io/Kommander-iOS)   [![Stars](https://img.shields.io/github/stars/intelygenz/Kommander-iOS.svg?style=social&label=Star)](https://github.com/intelygenz/Kommander-iOS)
+[![Language](https://img.shields.io/badge/language-Swift-FFAC45.svg?style=flat)](https://github.com/intelygenz/Kommander-iOS)
+[![Version](https://img.shields.io/cocoapods/v/Kommander.svg?style=flat)](http://cocoapods.org/pods/Kommander)
+[![License](https://img.shields.io/cocoapods/l/Kommander.svg?style=flat)](http://cocoapods.org/pods/Kommander)
+[![Platform](https://img.shields.io/cocoapods/p/Kommander.svg?style=flat)](http://cocoapods.org/pods/Kommander)
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+
+**Kommander** is a Swift library to manage the task execution in different threads. Through the definition a simple but powerful concept, [**Kommand**](https://en.wikipedia.org/wiki/Command_pattern).
+
 ### [App2WebHandoff](https://intelygenz.github.io/App2WebHandoff)   [![Stars](https://img.shields.io/github/stars/intelygenz/App2WebHandoff.svg?style=social&label=Star)](https://github.com/intelygenz/App2WebHandoff)
 [![Language](https://img.shields.io/badge/language-Swift-FFAC45.svg?style=flat)](https://github.com/intelygenz/App2WebHandoff)
 [![Version](https://img.shields.io/cocoapods/v/App2WebHandoff.svg?style=flat)](http://cocoapods.org/pods/App2WebHandoff)
