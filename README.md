@@ -1,23 +1,29 @@
 # Intelygenz ❤️ Open Source
 [![Twitter](https://img.shields.io/badge/contact-@intelygenz-0FABFF.svg?style=flat)](http://twitter.com/intelygenz)
 
-### [IGZLocation](https://intelygenz.github.io/IGZLocation)   [![Stars](https://img.shields.io/github/stars/intelygenz/IGZLocation.svg?style=social&label=Star)](https://github.com/intelygenz/IGZLocation)
-[![Language](https://img.shields.io/badge/language-Swift-FFAC45.svg?style=flat)](https://github.com/intelygenz/IGZLocation)
-[![Version](https://img.shields.io/cocoapods/v/IGZLocation.svg?style=flat)](http://cocoapods.org/pods/IGZLocation)
-[![License](https://img.shields.io/cocoapods/l/IGZLocation.svg?style=flat)](http://cocoapods.org/pods/IGZLocation)
-[![Platform](https://img.shields.io/cocoapods/p/IGZLocation.svg?style=flat)](http://cocoapods.org/pods/IGZLocation)
-[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
-
-CLLocationManager Swift 3 wrapper with multiple closure handlers and delegates allowed, notifications, sequential geofencing, self-authorization and, of course, everything is testable. #InCodeWeTrust
-
 ### [Kommander](https://intelygenz.github.io/Kommander-iOS)   [![Stars](https://img.shields.io/github/stars/intelygenz/Kommander-iOS.svg?style=social&label=Star)](https://github.com/intelygenz/Kommander-iOS)
 [![Language](https://img.shields.io/badge/language-Swift-FFAC45.svg?style=flat)](https://github.com/intelygenz/Kommander-iOS)
 [![Version](https://img.shields.io/cocoapods/v/Kommander.svg?style=flat)](http://cocoapods.org/pods/Kommander)
 [![License](https://img.shields.io/cocoapods/l/Kommander.svg?style=flat)](http://cocoapods.org/pods/Kommander)
 [![Platform](https://img.shields.io/cocoapods/p/Kommander.svg?style=flat)](http://cocoapods.org/pods/Kommander)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+[![Swift Package Manager Compatible](https://img.shields.io/badge/Swift%20Package%20Manager-compatible-4BC51D.svg?style=flat)](https://github.com/apple/swift-package-manager)
+[![Docs](https://img.shields.io/cocoapods/metrics/doc-percent/Kommander.svg)](http://cocoadocs.org/docsets/Kommander)
+[![Build Status](https://travis-ci.org/intelygenz/Kommander-iOS.svg?branch=master)](https://travis-ci.org/intelygenz/Kommander-iOS)
 
 **Kommander** is a Swift library to manage the task execution in different threads. Through the definition a simple but powerful concept, [**Kommand**](https://en.wikipedia.org/wiki/Command_pattern).
+
+### [IGZLocation](https://intelygenz.github.io/IGZLocation)   [![Stars](https://img.shields.io/github/stars/intelygenz/IGZLocation.svg?style=social&label=Star)](https://github.com/intelygenz/IGZLocation)
+[![Language](https://img.shields.io/badge/language-Swift-FFAC45.svg?style=flat)](https://github.com/intelygenz/IGZLocation)
+[![Version](https://img.shields.io/cocoapods/v/IGZLocation.svg?style=flat)](http://cocoapods.org/pods/IGZLocation)
+[![License](https://img.shields.io/cocoapods/l/IGZLocation.svg?style=flat)](http://cocoapods.org/pods/IGZLocation)
+[![Platform](https://img.shields.io/cocoapods/p/IGZLocation.svg?style=flat)](http://cocoapods.org/pods/IGZLocation)
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+[![Swift Package Manager Compatible](https://img.shields.io/badge/Swift%20Package%20Manager-compatible-4BC51D.svg?style=flat)](https://github.com/apple/swift-package-manager)
+[![Docs](https://img.shields.io/cocoapods/metrics/doc-percent/IGZLocation.svg)](http://cocoadocs.org/docsets/IGZLocation)
+[![Build Status](https://travis-ci.org/intelygenz/IGZLocation.svg?branch=master)](https://travis-ci.org/intelygenz/IGZLocation)
+
+CLLocationManager Swift 3 wrapper with multiple closure handlers and delegates allowed, notifications, sequential geofencing, self-authorization and, of course, everything is testable. #InCodeWeTrust
 
 ### [App2WebHandoff](https://intelygenz.github.io/App2WebHandoff)   [![Stars](https://img.shields.io/github/stars/intelygenz/App2WebHandoff.svg?style=social&label=Star)](https://github.com/intelygenz/App2WebHandoff)
 [![Language](https://img.shields.io/badge/language-Swift-FFAC45.svg?style=flat)](https://github.com/intelygenz/App2WebHandoff)
@@ -25,6 +31,8 @@ CLLocationManager Swift 3 wrapper with multiple closure handlers and delegates a
 [![License](https://img.shields.io/cocoapods/l/App2WebHandoff.svg?style=flat)](http://cocoapods.org/pods/App2WebHandoff)
 [![Platform](https://img.shields.io/cocoapods/p/App2WebHandoff.svg?style=flat)](http://cocoapods.org/pods/App2WebHandoff)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+[![Swift Package Manager Compatible](https://img.shields.io/badge/Swift%20Package%20Manager-compatible-4BC51D.svg?style=flat)](https://github.com/apple/swift-package-manager)
+[![Build Status](https://travis-ci.org/intelygenz/App2WebHandoff.svg?branch=master)](https://travis-ci.org/intelygenz/App2WebHandoff)
 
 Resume in-app web browsing in the default web-browser of the continuing platform adopting handoff.
 
