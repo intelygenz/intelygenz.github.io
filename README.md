@@ -1,6 +1,17 @@
 # Intelygenz ❤️ Open Source
 [![Twitter](https://img.shields.io/badge/contact-@intelygenz-0FABFF.svg?style=flat)](http://twitter.com/intelygenz)
 
+### [Net](https://intelygenz.github.io/NetClient-iOS)   [![Stars](https://img.shields.io/github/stars/intelygenz/NetClient-iOS.svg?style=social&label=Star)](https://github.com/intelygenz/NetClient-iOS)
+[![Language](https://img.shields.io/badge/language-Swift-FFAC45.svg?style=flat)](https://github.com/intelygenz/NetClient-iOS)
+[![Version](https://img.shields.io/cocoapods/v/NetClient.svg?style=flat)](http://cocoapods.org/pods/NetClient)
+[![License](https://img.shields.io/cocoapods/l/NetClient.svg?style=flat)](http://cocoapods.org/pods/NetClient)
+[![Platform](https://img.shields.io/cocoapods/p/NetClient.svg?style=flat)](http://cocoapods.org/pods/NetClient)
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+[![Swift Package Manager Compatible](https://img.shields.io/badge/Swift%20Package%20Manager-compatible-4BC51D.svg?style=flat)](https://github.com/apple/swift-package-manager)
+[![Build Status](https://travis-ci.org/intelygenz/NetClient-iOS.svg?branch=master)](https://travis-ci.org/intelygenz/NetClient-iOS)
+
+**Net** is a versatile HTTP networking library written in Swift 3.
+
 ### [Kommander](https://intelygenz.github.io/Kommander-iOS)   [![Stars](https://img.shields.io/github/stars/intelygenz/Kommander-iOS.svg?style=social&label=Star)](https://github.com/intelygenz/Kommander-iOS)
 [![Language](https://img.shields.io/badge/language-Swift-FFAC45.svg?style=flat)](https://github.com/intelygenz/Kommander-iOS)
 [![Version](https://img.shields.io/cocoapods/v/Kommander.svg?style=flat)](http://cocoapods.org/pods/Kommander)
