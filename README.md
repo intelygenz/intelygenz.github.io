@@ -8,7 +8,6 @@
 [![Platform](https://img.shields.io/cocoapods/p/NetClient.svg?style=flat)](http://cocoapods.org/pods/NetClient)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 [![Swift Package Manager Compatible](https://img.shields.io/badge/Swift%20Package%20Manager-compatible-4BC51D.svg?style=flat)](https://github.com/apple/swift-package-manager)
-[![Build Status](https://travis-ci.org/intelygenz/NetClient-iOS.svg?branch=master)](https://travis-ci.org/intelygenz/NetClient-iOS)
 
 **Net** is a versatile HTTP networking library written in Swift 3.
 
