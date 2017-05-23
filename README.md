@@ -8,7 +8,7 @@
 [![Platform](https://img.shields.io/cocoapods/p/NetClient.svg?style=flat)](http://cocoapods.org/pods/NetClient)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 [![Swift Package Manager Compatible](https://img.shields.io/badge/Swift%20Package%20Manager-compatible-4BC51D.svg?style=flat)](https://github.com/apple/swift-package-manager)
-[![Build Status](https://travis-ci.org/intelygenz/NetClient-iOS.svg?branch=master)](https://travis-ci.org/intelygenz/Kommander-iOS)
+[![Build Status](https://travis-ci.org/intelygenz/NetClient-iOS.svg?branch=master)](https://travis-ci.org/intelygenz/NetClient-iOS)
 
 **Net** is a versatile HTTP networking library written in Swift 3.
 
@@ -21,7 +21,7 @@
 [![Swift Package Manager Compatible](https://img.shields.io/badge/Swift%20Package%20Manager-compatible-4BC51D.svg?style=flat)](https://github.com/apple/swift-package-manager)
 [![Docs](https://img.shields.io/cocoapods/metrics/doc-percent/Kommander.svg)](http://cocoadocs.org/docsets/Kommander)
 [![Build Status](https://travis-ci.org/intelygenz/Kommander-iOS.svg?branch=master)](https://travis-ci.org/intelygenz/Kommander-iOS)
-[![Code Coverage](https://codecov.io/gh/intelygenz/Kommander-iOS/branch/master/graph/badge.svg)](https://codecov.io/gh/intelygenz/Kommander-iOS)
+[![Downloads](https://img.shields.io/cocoapods/dt/Kommander.svg)](http://cocoapods.org/pods/Kommander)
 
 **Kommander** is a Swift library to manage the task execution in different threads. Through the definition a simple but powerful concept, [**Kommand**](https://en.wikipedia.org/wiki/Command_pattern).
 
@@ -46,6 +46,7 @@ CLLocationManager Swift 3 wrapper with multiple closure handlers and delegates a
 [![Swift Package Manager Compatible](https://img.shields.io/badge/Swift%20Package%20Manager-compatible-4BC51D.svg?style=flat)](https://github.com/apple/swift-package-manager)
 [![Build Status](https://travis-ci.org/intelygenz/App2WebHandoff.svg?branch=master)](https://travis-ci.org/intelygenz/App2WebHandoff)
 [![Code Coverage](https://codecov.io/gh/intelygenz/App2WebHandoff/branch/master/graph/badge.svg)](https://codecov.io/gh/intelygenz/App2WebHandoff)
+[![codebeat badge](https://codebeat.co/badges/c96dc209-efc0-47af-a056-d4a2fccee008)](https://codebeat.co/projects/github-com-intelygenz-app2webhandoff-master)
 
 Resume in-app web browsing in the default web-browser of the continuing platform adopting handoff.
 
